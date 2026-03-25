@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HII I'M VIVEK 
 🛠️ I’m currently working on<br>– Improving my coding skills and building small projects<br><br>🤝 I’m looking to collaborate on<br>– Beginner-friendly open-source or learning projects<br><br>🧠 I’m looking for help with<br>– Understanding algorithms and best practices<br><br>🌱 I’m currently learning<br>– Python, web development, and problem solving<br><br>💬 Ask me about<br>– Tech, learning resources, or study tips<br><br>⚡ Fun fact<br>– I enjoy learning new things and experimenting with ideas
 
 
