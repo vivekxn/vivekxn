@@ -27,6 +27,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:2k24.cs.1r2413796@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" alt="email" width="32" height="32"></a>
 </p>
+
+
+
+ 
+<picture><img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="300px"></picture>
  
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
 
