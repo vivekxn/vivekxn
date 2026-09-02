@@ -1,7 +1,7 @@
 <p></p>
 <p align="center">
   <em>
-    Hello, I am <b>Vivek Kumar</b> a <b>3rd Year</b> undergraduate from <a href="https://uom.lk/"> <b>PAIT Kanpur</b>, (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am <b>Vivek Kumar</b> a <b>3rd Year</b> undergraduate from <a href="https://uom.lk/"> <b>Pranveer Singh Institute of Technology, PSIT Kanpur</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;,<br>who is <b>obsessed</b>
     with <b>Problem solving </b> and always looking to find solutions of which are hidden in the logic
   </em> 
