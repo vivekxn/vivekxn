@@ -17,11 +17,15 @@
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture>
 
 <p>
-  <a href="https://www.linkedin.com/in/vivekxn/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vivekxn" width="38" height="38"></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/VIVEKXN" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vivekxn" width="38" height="38"></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/Vivekxn/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vivekxn" width="38" height="38"></a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/vivekxn/profile" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vivekxn" width="38" height="38"></a>&nbsp;&nbsp;
-  <a href="mailto:2k24.cs.1r2413796@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" alt="email" width="38" height="38"></a>
+  <a href="https://www.linkedin.com/in/vivekxn/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vivekxn" width="32" height="32"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/VIVEKXN" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vivekxn" width="32" height="32"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/Vivekxn/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vivekxn" width="32" height="32"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/vivekxn/profile" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vivekxn" width="32" height="32"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:2k24.cs.1r2413796@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" alt="email" width="32" height="32"></a>
 </p>
  
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
