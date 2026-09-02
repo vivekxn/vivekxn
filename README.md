@@ -1,22 +1,67 @@
-# 💫 HII I'M VIVEK 
-🛠️ I’m currently working on<br>– Improving my coding skills and building small projects<br><br>🤝 I’m looking to collaborate on<br>– Beginner-friendly open-source or learning projects<br><br>🧠 I’m looking for help with<br>– Understanding algorithms and best practices<br><br>🌱 I’m currently learning<br>– Python, web development, and problem solving<br><br>💬 Ask me about<br>– Tech, learning resources, or study tips<br><br>⚡ Fun fact<br>– I enjoy learning new things and experimenting with ideas
-
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/theram_xd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivxmov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekxn) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RAM_0P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramxyztg@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vivekxn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vivekxn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekxn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=vivekxn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Vivekxn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vivekxn) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Vivek</a></h1>
+<h3 align="center">Full Stack Developer From Kanpur</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="100rabhcsmc"> </p>
+<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&amp;style=for-the-badge" alt="100rabhcsmc"></a> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+<ul>
+<li>
+<p>🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a></p>
+</li>
+<li>
+<p>🌱 I’m currently Working on Mobile App(React-Native)</p>
+</li>
+<li>
+<p>🤝 I’m available for freelancing.</p>
+</li>
+<li>
+<p>🌱 I’m currently learning Swift &amp;&amp; SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a></p>
+</li>
+<li>
+<p>📝 I regularly write articles on <a href="https://dev.to/100rabhcsmc">https://dev.to/100rabhcsmc</a></p>
+</li>
+<li>
+<p>💬 Ask me about <strong>Reactjs &amp; React-Native</strong></p>
+</li>
+<li>
+<p>📫 How to reach me <strong><a href="mailto:saurabhchavan052@gmail.com">saurabhchavan052@gmail.com</a></strong></p>
+</li>
+<li>
+<p>📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a></p>
+<br>
+</li>
+</ul>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+ </p><div align="center" class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
+      </div>
+<p></p>
+<h3 id="blogs-posts">Blogs posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<ul>
+<li><a href="https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j">Download Instagram profile picture using python</a></li>
+<li><a href="https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1">Convert a image to sketch using python</a></li>
+<li><a href="https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8">Upload your project/files in GitHub using commands</a></li>
+</ul>
+<!-- BLOG-POST-LIST:END -->
+<hr>
+<p>Credit: <a href="https://github.com/100rabhcsmc">Saurabh Chavan</a></p>
+<p>Last Edited on: 08/08/2022</p> 
